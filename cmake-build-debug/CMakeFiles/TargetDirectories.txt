@@ -1,0 +1,3 @@
+/home/yoru/Desktop/Estrutura de dados/Arvore Binaria de Buscaa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yoru/Desktop/Estrutura de dados/Arvore Binaria de Buscaa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yoru/Desktop/Estrutura de dados/Arvore Binaria de Buscaa/cmake-build-debug/CMakeFiles/Arvore_Binaria_de_Buscaa.dir

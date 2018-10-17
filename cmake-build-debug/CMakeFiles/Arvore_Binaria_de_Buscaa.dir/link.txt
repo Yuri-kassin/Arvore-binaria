@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Arvore_Binaria_de_Buscaa.dir/main.cpp.o  -o Arvore_Binaria_de_Buscaa 
