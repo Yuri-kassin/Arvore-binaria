@@ -1,6 +1,7 @@
 //
 // Created by yoru on 14/09/18.
 //
+// ps: tente ignorar "arvove", eu sei q escrevi errado, fiquei com preguica de corrigir :)
 
 #ifndef ARVORE_BINARIA_DE_BUSCAA_ARVOVE_HPP
 #define ARVORE_BINARIA_DE_BUSCAA_ARVOVE_HPP
